@@ -1,17 +1,17 @@
 {
-  "name": "@copylee/dsh-computer-use",
+  "name": "dsh-computer-use-en",
   "version": "0.8.1",
   "description": "English Windows Computer Use for DeepSeek Harness: screenshot, mouse, keyboard, UI Automation, clipboard, window management, per-app access, and an orange control overlay with Esc pause/resume.",
   "type": "module",
-  "author": "copylee",
+  "author": "ALAMBICCO (fork of copylee)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/copylee711/dsh-computer-use.git"
+    "url": "git+https://github.com/ALAMBICCO/dsh-computer-use-en.git"
   },
   "bugs": {
-    "url": "https://github.com/copylee711/dsh-computer-use/issues"
+    "url": "https://github.com/ALAMBICCO/dsh-computer-use-en/issues"
   },
-  "homepage": "https://github.com/copylee711/dsh-computer-use#readme",
+  "homepage": "https://github.com/ALAMBICCO/dsh-computer-use-en#readme",
   "main": "lib/index.js",
   "types": "lib/types/index.d.ts",
   "exports": {

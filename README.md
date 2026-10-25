@@ -25,10 +25,10 @@ Windows 10 (2004+) / Windows 11 only.
 
 ## Installation
 
-From GitHub or npm:
+From GitHub Release or GitHub:
 
 ```bash
-dsh plugin --profile web add github:<owner>/dsh-computer-use-en
+dsh plugin --profile web add "https://github.com/ALAMBICCO/dsh-computer-use-en/releases/download/v0.8.1/dsh-computer-use-en-0.8.1.tgz"
 ```
 
 ## Agent Tools
